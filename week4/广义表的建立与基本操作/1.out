@@ -1,0 +1,13 @@
+generic list: ((a,s,(w,e)),q,c)
+destroy tail
+free list node
+generic list: (a,s,(w,e))
+free head node
+free list node
+generic list: (s,(w,e))
+free head node
+free list node
+generic list: ((w,e))
+free head node
+free list node
+generic list: ()
